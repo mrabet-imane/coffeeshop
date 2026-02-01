@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "header": {
+    "address": "123 rue du Café, Casablanca",
+    "phone": "+212 6 12 34 56 78"
+  },
+  "buttons": {
+    "order": "Commander",
+    "close": "Fermer"
+  }
+}

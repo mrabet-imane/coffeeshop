@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "header": {
+    "address": "123 Coffee Street, Casablanca",
+    "phone": "+212 6 12 34 56 78"
+  },
+  "buttons": {
+    "order": "Order now",
+    "close": "Close"
+  }
+}
