@@ -12,5 +12,25 @@
   "buttons": {
     "order": "Commander",
     "close": "Fermer"
+  },
+ 
+  "hero": {
+    "slides": [
+      {
+        "title": "Café frais chaque matin",
+        "subtitle": "Commencez votre journée avec la tasse parfaite"
+      },
+      {
+        "title": "Desserts artisanaux",
+        "subtitle": "Préparés avec amour et des ingrédients premium"
+      },
+      {
+        "title": "Votre café chaleureux",
+        "subtitle": "Détendez-vous, travaillez et profitez de l’ambiance"
+      }
+    ],
+    "button": "Voir le menu"
   }
+
+
 }

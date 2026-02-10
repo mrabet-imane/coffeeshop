@@ -30,7 +30,7 @@ export default function Header() {
   return (
     <>
    
-      <AppBar position="fixed" elevation={0} sx={{ bgcolor: "#8B5E3C", color: "#FFF9F3" }}>
+      <AppBar position="fixed" elevation={0} sx={{ bgcolor: "#50321f", color: "#FFF9F3" }}>
         <Toolbar variant="dense" sx={{ justifyContent: "center", gap: 3, fontSize: "0.875rem" }}>
           <Box display="flex" alignItems="center" gap={1}>
             <LocationOnIcon fontSize="small" />
@@ -60,9 +60,11 @@ export default function Header() {
           <Box sx={{ display: "flex", alignItems: "center" }}>
             <Box
               component="img"
-              src="/logo-1-removebg-preview.png"
+              src="/logo-1-removebg-preview.webp"
               alt="Coffee Shop logo"
               sx={{ height: 40, width: "auto" }}
+              loading="eager"
+              fetchPriority="high" 
             />
           </Box>
 

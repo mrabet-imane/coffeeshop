@@ -12,5 +12,22 @@
   "buttons": {
     "order": "Order now",
     "close": "Close"
+  },
+  "hero": {
+    "slides": [
+      {
+        "title": "Fresh Coffee Every Morning",
+        "subtitle": "Start your day with the perfect cup"
+      },
+      {
+        "title": "Handcrafted Desserts",
+        "subtitle": "Made with love and premium ingredients"
+      },
+      {
+        "title": "Your Cozy Coffee Place",
+        "subtitle": "Relax, work and enjoy the atmosphere"
+      }
+    ],
+    "button": "View Menu"
   }
 }
