@@ -29,5 +29,28 @@
       }
     ],
     "button": "View Menu"
+  },
+  "coffeesSectionTitle": "Our Top Coffees",
+  "coffees": {
+    "espresso": {
+      "title": "Espresso",
+      "description": "A rich and intense coffee made from finely ground beans, perfect for a strong start to your day."
+    },
+    "cafeLight": {
+      "title": "Cafe Light",
+      "description": "A smooth and mild coffee, perfect for a relaxed afternoon."
+    },
+    "icedMoca": {
+      "title": "Iced Moca",
+      "description": "Chilled coffee with chocolate flavor, ideal for a sweet refreshing treat."
+    },
+    "milkCoffee": {
+      "title": "Milk Coffee",
+      "description": "Creamy coffee with milk, perfect for a soft and balanced taste."
+    },
+    "marciaMullett": {
+      "title": "Marcia Mullett",
+      "description": "A specialty coffee with unique aroma, handcrafted for coffee enthusiasts."
+    }
   }
 }

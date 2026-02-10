@@ -4,7 +4,7 @@ import Header from "./components/headerComponent";
 import { useEffect } from "react";
 import i18n from "i18next";
 const Hero = lazy(() => import('./components/Hero'));
-
+const OurCoffee=lazy(()=> import('./components/OurCoffee'))
 function App() {
   useEffect(() => {
     document.documentElement.dir =
@@ -17,6 +17,7 @@ function App() {
       <Suspense fallback={<div className="p-8 text-center">Loading...</div>}>
         <main >
             <Hero/>
+            <OurCoffee/>
         </main>
           
        

@@ -19,7 +19,7 @@ import PhoneIcon from "@mui/icons-material/Phone";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import LanguageSelector from "./LanguageSelector";
 
-const navKeys = ["home", "menu", "about", "contact"]; 
+const navKeys = ["home","about","menu", "contact"]; 
 
 export default function Header() {
   const [open, setOpen] = useState(false);

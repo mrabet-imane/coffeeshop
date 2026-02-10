@@ -30,6 +30,29 @@
       }
     ],
     "button": "Voir le menu"
+  },
+  "coffeesSectionTitle": "Nos Meilleures Cafés",
+  "coffees": {
+    "espresso": {
+      "title": "Espresso",
+      "description": "Un café riche et intense fait à partir de grains finement moulus, parfait pour bien commencer la journée."
+    },
+    "cafeLight": {
+      "title": "Café Léger",
+      "description": "Un café doux et léger, parfait pour un après-midi relaxant."
+    },
+    "icedMoca": {
+      "title": "Iced Moca",
+      "description": "Café glacé au chocolat, idéal pour une gourmandise rafraîchissante."
+    },
+    "milkCoffee": {
+      "title": "Café au Lait",
+      "description": "Café crémeux au lait, parfait pour un goût doux et équilibré."
+    },
+    "marciaMullett": {
+      "title": "Marcia Mullett",
+      "description": "Un café spécial avec un arôme unique, fabriqué à la main pour les amateurs de café."
+    }
   }
 
 
